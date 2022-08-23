@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasan-th
-- 👀 I’m interested in Machine Learning and AI
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Fundamentals of Machine Learning
 - 💞️ I’m looking to collaborate on any project related to this domain
 - 📫 you can reach me via my personal mail vasanth180799@gmail.com
