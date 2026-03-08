@@ -2,8 +2,6 @@
 
 Applied Scientist focused on large-scale ML systems, NLP, and deep learning foundations. I build things from the ground up to understand them properly — then apply that understanding to production-scale problems.
 
-Currently targeting **Senior Applied Scientist / AI Scientist** roles.
-
 ---
 
 ## Projects
